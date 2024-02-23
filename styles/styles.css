@@ -33,7 +33,18 @@ article h2 {
   text-align: center;
 }
 
+footer {
+  /* position: absolute;
+  bottom: 1rem; */
+}
+
 footer p {
   text-align: center;
   margin-top: 2rem;
+}
+
+@media (max-width: 800px) {
+  main {
+    flex-direction: column;
+  }
 }
