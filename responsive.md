@@ -2,7 +2,7 @@
 
 ## Learning
 
-In this lab, we will utilize the previous Article Preview lab to practice utilizing media queries to create a mobile responsive layout.
+In this exercise, we will utilize the previous Article Preview exercise to practice utilizing media queries to create a mobile responsive layout.
 
 Topics:
 
@@ -13,20 +13,20 @@ Topics:
 
 ## Achieving
 
-In this lab, we will utilize a given wire frame to further our previous layout in Article Preview. When viewed on a smaller screen, we want our layout to match the mobile layout on the wire frame.
+In this exercise, we will utilize a given wire frame to further our previous layout in Article Preview. When viewed on a smaller screen, we want our layout to match the mobile layout on the wire frame.
 
 Your work will result in:
 
 - A website that closely matches the desktop and mobile designs in the given wireframe.
 
 # Procedure
-- If you have not done so, complete part 1 of this lab, instructions are in `readme.md`
+- If you have not done so, complete part 1 of this exercise, instructions are in `readme.md`
 
 ## Opening and referencing the wireframe
 
 - [ ] Click the following link to open the wire frame: [Figma Wire Frame](https://www.figma.com/file/TPiWJvpu5M0xDM8lxAwjVC/article-preview-responsive?node-id=0%3A1).
 - [ ] **Note:** This wireframe is not "pixel perfect" so don't stress having it match dimensions exactly. We are looking to capture the spirit of the wireframe.
-- [ ] This wireframe maps to semantic divs you need to create. See if you can understand the wireframe without referencing the explicit instructions in the previous labs. 
+- [ ] This wireframe maps to semantic divs you need to create. See if you can understand the wireframe without referencing the explicit instructions in the previous exercises. 
 
 ## Styling the divs
 
@@ -38,7 +38,7 @@ Your work will result in:
 
 # Review
 
-In this lab, we have translated a wireframe to a website utilizing CSS. We have used media queries to create a mobile version of our layout.
+In this exercise, we have translated a wireframe to a website utilizing CSS. We have used media queries to create a mobile version of our layout.
 
 The software should:
 
